@@ -76,6 +76,14 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jKun资源"
+    },
+    "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "souav资源"
     }
   }
 }
